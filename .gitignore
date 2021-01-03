@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+.cache
+.parcel-cache
+.publish
+dist
+yarn-error.log
+yarn.lock

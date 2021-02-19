@@ -2,6 +2,7 @@
   "extends": [
     "config:base"
   ],
+  "reviewers": "eunchrun",
   "packageRules": [
     {
       "matchPackagePatterns": [
@@ -17,7 +18,9 @@
       "matchDepTypes": [
         "devDependencies"
       ],
-      "automerge": true
+      "automerge": true,
+      "automergeType": "pr-comment",
+      "automergeComment": "bors: r+",
     },
     {
       "matchDepTypes": [
@@ -35,7 +38,9 @@
         "pin",
         "digest"
       ],
-      "automerge": true
+      "automerge": true,
+      "automergeType": "pr-comment",
+      "automergeComment": "bors: r+"
     }
   ]
 }

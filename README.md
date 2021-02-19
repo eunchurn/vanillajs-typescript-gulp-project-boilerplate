@@ -1,5 +1,7 @@
 # Simple VanillaJS Typescript Gulp Project Boilerplate
 
+[![Unit Test](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/unit-test.yml/badge.svg)](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/unit-test.yml)
+
 Minimum setting for VanillaJS, HTML webpage
 
 - VanillaJS

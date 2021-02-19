@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1613710411157" clover="3.2.0">
+  <project timestamp="1613710411157" name="All files">
+    <metrics statements="30" coveredstatements="28" conditionals="10" coveredconditionals="5" methods="3" coveredmethods="2" elements="43" coveredelements="35" complexity="0" loc="30" ncloc="30" packages="1" files="2" classes="2"/>
+    <file name="app.ts" path="/Users/danbi/Dev/vanillajs-typescript-gulp-project-boilerplate/src/js/app.ts">
+      <metrics statements="26" coveredstatements="24" conditionals="8" coveredconditionals="4" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="35" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+    </file>
+    <file name="selector.ts" path="/Users/danbi/Dev/vanillajs-typescript-gulp-project-boilerplate/src/js/selector.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>

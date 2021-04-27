@@ -30,7 +30,7 @@
     "@types/gulp-imagemin": "7.0.2",
     "@types/gulp-minify": "3.1.0",
     "@types/jest": "26.0.23",
-    "@types/node": "14.14.42",
+    "@types/node": "14.14.43",
     "@types/vinyl-buffer": "1.0.0",
     "@types/vinyl-source-stream": "0.0.30",
     "browser-sync": "2.26.14",

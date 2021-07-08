@@ -648,10 +648,10 @@
     "@types/html-minifier" "*"
     "@types/node" "*"
 
-"@types/gulp-imagemin@7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@types/gulp-imagemin/-/gulp-imagemin-7.0.2.tgz#a3de5cf5d3860e364f4d526c12df7648f588b110"
-  integrity sha512-COyx7raAlqOIZJOB2nb/j1Tu2MHt14QYDu4NK1tCnrbzwlFsZEHgpPQ3UW94ckKLAlRnYnp0Dr9V/a2qoir00Q==
+"@types/gulp-imagemin@7.0.3":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@types/gulp-imagemin/-/gulp-imagemin-7.0.3.tgz#25c3a54832f5218b542d6109f5246f94f28c8722"
+  integrity sha512-2jp8LAKDZRMZCGh66vBwyHtya0+whYNuvopw2DxpS8gdy3PUc74xMbg/PHsKzkHsl+tcGVk2Tzrl3AXumJn8tg==
   dependencies:
     "@types/imagemin" "*"
     "@types/imagemin-gifsicle" "*"

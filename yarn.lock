@@ -618,10 +618,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-changed@0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.33.tgz#ded31a346321fe30258e6d7e6ad71842732ca92f"
-  integrity sha512-HgX/ywK6WVi7ho7y210I4tEmzC0hLor1F/S4FFXRA4eaFodp1XPMNb1EpgXHO7ySr4ZGY8I1KRRqtu/A2fNhSQ==
+"@types/gulp-changed@0.0.34":
+  version "0.0.34"
+  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.34.tgz#cd0ea7aea8fe6c36a0e264f4a9523dcba76eecf9"
+  integrity sha512-d0K1pIIVYLFSEjSLRIFjDq1AHX5Afv48X7AVLN9LbDi69FXsPkmT+yVSpheGxpWwVMYEa/47Jtd0j5nE7bmKfQ==
   dependencies:
     "@types/node" "*"
     "@types/vinyl" "*"

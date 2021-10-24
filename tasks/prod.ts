@@ -9,7 +9,7 @@ import htmlmin from "gulp-htmlmin";
 import autoprefixer from "gulp-autoprefixer";
 import csso from "gulp-csso";
 import buffer from "vinyl-buffer";
-import config from "../config";
+import config from "./config";
 import { clean } from "./clean";
 
 gulp.task("build-prod", function () {

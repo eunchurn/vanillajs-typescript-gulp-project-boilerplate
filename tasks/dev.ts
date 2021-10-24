@@ -4,7 +4,7 @@ import tsify from "tsify";
 import source from "vinyl-source-stream";
 import autoprefixer from "gulp-autoprefixer";
 import bs from "browser-sync";
-import config from "../config";
+import config from "./config";
 import { clean } from "./clean";
 
 const browserSync = bs.create();

@@ -1,7 +1,7 @@
 import gulp from "gulp";
 import ghPages from "gulp-gh-pages";
 import { clean, prod } from ".";
-import config from "../config";
+import config from "./config";
 
 gulp.task("gh-pages-deploy", function () {
   return gulp

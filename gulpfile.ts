@@ -1,1 +1,1 @@
-export * from "./gulp/tasks";
+export * from "./tasks";

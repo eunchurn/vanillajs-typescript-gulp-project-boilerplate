@@ -29,25 +29,25 @@ gulp.task("build-prod", function () {
     .pipe(gulp.dest(config.browserify.dest));
 });
 
-// gulp.task("imagemin", function () {
-//   return gulp
-//     .src(config.assets.src)
-//     .pipe(changed(config.assets.dest))
-//     .pipe(
-//       imagemin(
-//         [
-//           imagemin.gifsicle({ interlaced: true }),
-//           imagemin.mozjpeg({ quality: 75, progressive: true }),
-//           imagemin.optipng({ optimizationLevel: 5 }),
-//           imagemin.svgo({
-//             plugins: [{ removeViewBox: true }, { cleanupIDs: false }],
-//           }),
-//         ],
-//         { verbose: true },
-//       ),
-//     )
-//     .pipe(gulp.dest(config.assets.dest));
-// });
+gulp.task("imagemin", function () {
+  return gulp
+    .src(config.assets.src)
+    .pipe(changed(config.assets.dest))
+    .pipe(
+      imagemin(
+        [
+          imagemin.gifsicle({ interlaced: true }),
+          imagemin.mozjpeg({ quality: 75, progressive: true }),
+          imagemin.optipng({ optimizationLevel: 5 }),
+          imagemin.svgo({
+            plugins: [{ removeViewBox: true }, { cleanupIDs: false }],
+          }),
+        ],
+        { verbose: true },
+      ),
+    )
+    .pipe(gulp.dest(config.assets.dest));
+});
 
 gulp.task("html-prod", function () {
   return gulp
@@ -56,8 +56,8 @@ gulp.task("html-prod", function () {
     .pipe(gulp.dest(config.html.dest));
 });
 
-// gulp.task("css-prod", function () {
-//   return gulp.src(config.css.src).pipe(autoprefixer()).pipe(csso()).pipe(gulp.dest(config.css.dest));
-// });
+gulp.task("css-prod", function () {
+  return gulp.src(config.css.src).pipe(autoprefixer()).pipe(csso()).pipe(gulp.dest(config.css.dest));
+});
 
-export const prod = gulp.series(clean, "build-prod", "html-prod");
+export const prod = gulp.series(clean, "build-prod", "imagemin", "html-prod", "css-prod");

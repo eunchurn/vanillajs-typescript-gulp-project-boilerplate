@@ -644,10 +644,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-gh-pages@0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@types/gulp-gh-pages/-/gulp-gh-pages-0.0.32.tgz#5f17552f6a429bde9680b6291b4bad4e3f1f2a49"
-  integrity sha512-IrT4iHjTfvUHVK7Hh2pWB+JSeEOlKxIMv8TI2pyZX39n2LqDSOeqYRB9D7FxhkmJb7RuGBexn2T/A1pxDuQ69A==
+"@types/gulp-gh-pages@0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@types/gulp-gh-pages/-/gulp-gh-pages-0.0.33.tgz#3ad64d026b641d6d26f5fc17175de1346e2c22b4"
+  integrity sha512-a5S8n3irP1ilzKRAMzEdSNfcJ2OPiFTdc8DjhV+KgAcjaJ1WOVpvp6dKh8vxo2qRJBgmyPadrWPkX3guf1JzPA==
   dependencies:
     "@types/node" "*"
 

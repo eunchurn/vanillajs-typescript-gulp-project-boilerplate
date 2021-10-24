@@ -3,14 +3,14 @@
 exports[`app should match snapshot 1`] = `
 <body>
   
-  
+    
   <header
     class="heading"
   >
     Heading
   </header>
   
-  
+    
   <section
     class="section-1"
   >
@@ -23,7 +23,7 @@ exports[`app should match snapshot 1`] = `
     />
   </section>
   
-  
+    
   <script
     src="./bundle.js"
   />

@@ -855,9 +855,9 @@
   integrity sha512-Klz949h02Gz2uZCMGwDUSDS1YBlTdDDgbWHi+81l29tQALUtvz4rAYi5uoVhE5Lagoq6DeqAUlbrHvW/mXDgdQ==
 
 "@types/node@*":
-  version "17.0.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.21.tgz#864b987c0c68d07b4345845c3e63b75edd143644"
-  integrity sha512-DBZCJbhII3r90XbQxI8Y9IjjiiOGlZ0Hr32omXIZvwwZ7p4DMMXGrKXVyPfuoBOri9XNtL0UK69jYIBIsRX3QQ==
+  version "16.11.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.4.tgz#90771124822d6663814f7c1c9b45a6654d8fd964"
+  integrity sha512-TMgXmy0v2xWyuCSCJM6NCna2snndD8yvQF67J29ipdzMcsPa9u+o0tjF5+EQNdhcuZplYuouYqpc4zcd5I6amQ==
 
 "@types/node@16.11.6":
   version "16.11.6"
@@ -906,13 +906,6 @@
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/@types/svgo/-/svgo-2.6.2.tgz#97d8be0c50ff0562ed7522ba840149aee1c970e3"
   integrity sha512-m1SqMc/EDAZ8v0BBX+NmlYytUXtvrMD2/J9LICwnMvAuJwb0GSmACU3XPvcORqE7ghEJA4Mk6NYzpwhQI/biPw==
-  dependencies:
-    "@types/node" "*"
-
-"@types/through2@^2.0.36":
-  version "2.0.36"
-  resolved "https://registry.yarnpkg.com/@types/through2/-/through2-2.0.36.tgz#35fda0db635827d44c0e08e2c94653e647574a00"
-  integrity sha512-vuifQksQHJXhV9McpVsXKuhnf3lsoX70PnhcqIAbs9dqLH2NgrGz0DzZPDY3+Yh6eaRqcE1gnCQ6QhBn1/PT5A==
   dependencies:
     "@types/node" "*"
 
@@ -5775,11 +5768,6 @@ jest@27.4.7:
     "@jest/core" "^27.4.7"
     import-local "^3.0.2"
     jest-cli "^27.4.7"
-
-jetpp@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/jetpp/-/jetpp-0.3.0.tgz#f0da5f561527fbac7e903e3de90d8fcc4b86e65b"
-  integrity sha512-wBzVZrvbHT5UneBYI4GfKHDYZD10YBOiT8lUu7kCeCjM0krgNam50nGCUKXncwE7bModsd2haMZB3jxYSUOUUw==
 
 js-tokens@^4.0.0:
   version "4.0.0"

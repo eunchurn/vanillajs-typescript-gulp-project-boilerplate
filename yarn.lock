@@ -902,12 +902,19 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.1.tgz#20f18294f797f2209b5f65c8e3b5c8e8261d127c"
   integrity sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==
 
+<<<<<<< HEAD
 "@types/svgo@*":
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/@types/svgo/-/svgo-2.6.2.tgz#97d8be0c50ff0562ed7522ba840149aee1c970e3"
   integrity sha512-m1SqMc/EDAZ8v0BBX+NmlYytUXtvrMD2/J9LICwnMvAuJwb0GSmACU3XPvcORqE7ghEJA4Mk6NYzpwhQI/biPw==
   dependencies:
     "@types/node" "*"
+=======
+"@types/svgo@^1":
+  version "1.3.6"
+  resolved "https://registry.yarnpkg.com/@types/svgo/-/svgo-1.3.6.tgz#9db00a7ddf9b26ad2feb6b834bef1818677845e1"
+  integrity sha512-AZU7vQcy/4WFEuwnwsNsJnFwupIpbllH1++LXScN6uxT1Z4zPzdrWG97w4/I7eFKFTvfy/bHFStWjdBAg2Vjug==
+>>>>>>> e698fec (chore(deps): update dependency jsdom to v18.0.1)
 
 "@types/tough-cookie@*":
   version "4.0.1"
@@ -5767,7 +5774,11 @@ jest@27.4.7:
   dependencies:
     "@jest/core" "^27.4.7"
     import-local "^3.0.2"
+<<<<<<< HEAD
     jest-cli "^27.4.7"
+=======
+    jest-cli "^27.3.1"
+>>>>>>> e698fec (chore(deps): update dependency jsdom to v18.0.1)
 
 js-tokens@^4.0.0:
   version "4.0.0"
@@ -5782,10 +5793,17 @@ js-yaml@^3.13.1:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
+<<<<<<< HEAD
 jsdom@18.1.1:
   version "18.1.1"
   resolved "https://registry.yarnpkg.com/jsdom/-/jsdom-18.1.1.tgz#15ec896f5ab7df9669a62375606f47c8c09551aa"
   integrity sha512-NmJQbjQ/gpS/1at/ce3nCx89HbXL/f5OcenBe8wU1Eik0ROhyUc3LtmG3567dEHAGXkN8rmILW/qtCOPxPHQJw==
+=======
+jsdom@18.0.1:
+  version "18.0.1"
+  resolved "https://registry.yarnpkg.com/jsdom/-/jsdom-18.0.1.tgz#7317c91be425f31ff25814ad427eed8a2a310b61"
+  integrity sha512-mgVzrYP4IJiJKVqXkAdBn+jg+nQgPusBxTJulz3m1Y/1RIrkk8aDoNaQE5BNbHwe72WwiwE7k3Av2THXDpvzPQ==
+>>>>>>> e698fec (chore(deps): update dependency jsdom to v18.0.1)
   dependencies:
     abab "^2.0.5"
     acorn "^8.5.0"

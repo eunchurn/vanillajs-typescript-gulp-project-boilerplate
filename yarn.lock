@@ -876,10 +876,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-changed@0.0.34":
-  version "0.0.34"
-  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.34.tgz#cd0ea7aea8fe6c36a0e264f4a9523dcba76eecf9"
-  integrity sha512-d0K1pIIVYLFSEjSLRIFjDq1AHX5Afv48X7AVLN9LbDi69FXsPkmT+yVSpheGxpWwVMYEa/47Jtd0j5nE7bmKfQ==
+"@types/gulp-changed@0.0.35":
+  version "0.0.35"
+  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.35.tgz#afbedb497ee0004dec41fd93f1fdf1160de19570"
+  integrity sha512-+Fg0PUE/u0LHEUiTtFWRPBf/E+txCtwrWervTWLT8mIgfvWMJ1iyKRAREhDW2xxtI5m6lXYpo/ADV1VNssRmMg==
   dependencies:
     "@types/node" "*"
     "@types/vinyl" "*"

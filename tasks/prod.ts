@@ -11,7 +11,6 @@ import csso from "gulp-csso";
 import buffer from "vinyl-buffer";
 import config from "./config";
 import { clean } from "./clean";
-import jetpp from "jetpp";
 
 gulp.task("build-prod", function () {
   return browserify(config.browserify.entry)
@@ -20,13 +19,12 @@ gulp.task("build-prod", function () {
     .pipe(source(config.browserify.output.filename))
     .pipe(buffer())
     .pipe(
-      (js) => console.log(js),
-      // jsmin({
-      //   ext: {
-      //     min: ".js",
-      //   },
-      //   noSource: true,
-      // }),
+      jsmin({
+        ext: {
+          min: ".js",
+        },
+        noSource: true,
+      }),
     )
     .pipe(gulp.dest(config.browserify.dest));
 });

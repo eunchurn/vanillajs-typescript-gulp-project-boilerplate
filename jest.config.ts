@@ -8,7 +8,7 @@ const config: Config.InitialOptions = {
     },
     NODE_ENV: "test",
   },
-  setupFilesAfterEnv: ["jest-canvas-mock", `${__dirname}/src/setupTests.ts`],
+  setupFiles: ["jest-canvas-mock"],
   moduleDirectories: ["node_modules", "src"],
   moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json"],
   modulePathIgnorePatterns: ["dist", "build"],

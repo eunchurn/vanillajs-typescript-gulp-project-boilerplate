@@ -37,6 +37,7 @@
     "@types/vinyl-source-stream": "0.0.30",
     "browser-sync": "2.27.7",
     "browserify": "17.0.0",
+    "canvas": "^2.9.0",
     "del": "6.0.0",
     "gulp": "4.0.2",
     "gulp-autoprefixer": "8.0.0",

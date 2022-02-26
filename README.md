@@ -1,6 +1,6 @@
 # Simple VanillaJS Typescript Gulp Project Boilerplate
 
-[![Unit Test](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/unit-test.yml/badge.svg)](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/unit-test.yml)
+[![Unit Test](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/unit-test.yml/badge.svg)](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/unit-test.yml) [![Deploy](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/deployment.yml/badge.svg)](https://github.com/eunchurn/vanillajs-typescript-gulp-project-boilerplate/actions/workflows/deployment.yml)
 
 Minimum setting for VanillaJS, HTML webpage 
 **required NodeJS version over 12.x**

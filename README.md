@@ -28,4 +28,10 @@ Minimum setting for VanillaJS, HTML webpage
   }
 }
 ```
-[Link](https://eunchurn.github.io/vanillajs-typescript-gulp-project-boilerplate/)
+[Deplyed Link](https://eunchurn.github.io/vanillajs-typescript-gulp-project-boilerplate/)
+
+## For test (Apple Silicon M1 arm64)
+
+```
+brew install pkg-config cairo pango libpng jpeg giflib
+```

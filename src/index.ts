@@ -11,6 +11,6 @@ init([
   {
     className: ".cat-canvas",
     title: "Beckhi",
-    content: "./public/images/beckhi.jpg",
+    content: "./public/images/beckhi2.jpg",
   },
 ]);

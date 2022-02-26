@@ -25,7 +25,7 @@ export function init(content: Content[]) {
   // Canvas
   const [, , third] = content;
   const canvas = (document.createElement("canvas") as HTMLCanvasElement)
-  Object.assign(canvas, { width: 640, height: 480 });
+  Object.assign(canvas, { width: 450, height: 600 });
   if (section1) {
     section1.appendChild(canvas);
   }
@@ -34,7 +34,7 @@ export function init(content: Content[]) {
   const context = canvas.getContext("2d");
   if (context) {
     img.onload = function () {
-      context.drawImage(img, 0, 0, 640, 480);
+      context.drawImage(img, 0, 0, 450, 600);
       console.log("drawn");
     };
   }

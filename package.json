@@ -35,7 +35,7 @@
     "@types/node": "18.14.2",
     "@types/vinyl-buffer": "1.0.0",
     "@types/vinyl-source-stream": "0.0.30",
-    "browser-sync": "2.27.12",
+    "browser-sync": "2.28.1",
     "browserify": "17.0.0",
     "canvas": "2.11.0",
     "del": "6.1.1",

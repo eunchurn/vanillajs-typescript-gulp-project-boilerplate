@@ -1007,10 +1007,10 @@
     "@types/imagemin-svgo" "*"
     "@types/node" "*"
 
-"@types/gulp-minify@3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@types/gulp-minify/-/gulp-minify-3.1.1.tgz#335dd6093a41862e03e0c8dcc96b482f59813734"
-  integrity sha512-+AOGTIKVGXUSRmwYYB8OZ3kJlx4C8tdtA5LD6S2bVN4KLBbky/DCLIt7hR/nIGJHpnOnfvL+AICF0tFqozMz/g==
+"@types/gulp-minify@3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@types/gulp-minify/-/gulp-minify-3.1.2.tgz#85b1019f289fbd13cdb93b9139578ce0fa92d50d"
+  integrity sha512-uVfkur2Ml0p/2+YzFZnbqYNmRnP0fomsfbTb8ZKHgAkIclQ3p0V7B58iB7yUoMEj9wxJMZsqQB416a4GmxC3Mg==
   dependencies:
     "@types/node" "*"
 

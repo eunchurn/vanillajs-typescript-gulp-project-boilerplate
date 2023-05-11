@@ -958,10 +958,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-autoprefixer@0.0.33":
-  version "0.0.33"
-  resolved "https://registry.yarnpkg.com/@types/gulp-autoprefixer/-/gulp-autoprefixer-0.0.33.tgz#8ae4d90e64ab1d9cb09a32113d2e11cc07bb7729"
-  integrity sha512-FgunPm1uMroC/w9FCxtQhPPskR/WvnT+sNPxnyldwNXjq8K5ktzZAOqATyrYk0jTgae793uc+k5vsGV6Q+G7xA==
+"@types/gulp-autoprefixer@0.0.34":
+  version "0.0.34"
+  resolved "https://registry.yarnpkg.com/@types/gulp-autoprefixer/-/gulp-autoprefixer-0.0.34.tgz#161de1d3abcbe02cd923724dd58675d0ca28f240"
+  integrity sha512-K4XBB1QlqGKMVyUj5rwBzVrfemoKo+ri0Y0HPRkM8ZhINkxThwRVSv2diHKHuXsY+YI5+7KE070tjS4XwFpARQ==
   dependencies:
     "@types/node" "*"
 

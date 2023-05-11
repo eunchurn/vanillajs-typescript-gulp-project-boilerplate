@@ -23,7 +23,7 @@
     "@types/browser-sync": "2.27.0",
     "@types/browserify": "12.0.37",
     "@types/gulp": "4.0.10",
-    "@types/gulp-autoprefixer": "0.0.33",
+    "@types/gulp-autoprefixer": "0.0.34",
     "@types/gulp-changed": "0.0.35",
     "@types/gulp-csso": "4.0.1",
     "@types/gulp-gh-pages": "0.0.33",

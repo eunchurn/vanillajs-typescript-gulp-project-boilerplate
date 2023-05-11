@@ -33,7 +33,7 @@
     "@types/jest": "29.5.1",
     "@types/jsdom": "20.0.1",
     "@types/node": "18.16.7",
-    "@types/vinyl-buffer": "1.0.0",
+    "@types/vinyl-buffer": "1.0.1",
     "@types/vinyl-source-stream": "0.0.31",
     "browser-sync": "2.29.1",
     "browserify": "17.0.0",

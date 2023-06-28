@@ -1014,10 +1014,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp@4.0.12":
-  version "4.0.12"
-  resolved "https://registry.yarnpkg.com/@types/gulp/-/gulp-4.0.12.tgz#e980f261cbbed439d8c572526080c95c71869dbf"
-  integrity sha512-Z1RkBfpaMCRq4dCpIek6dkAeBxAsdzkBZkMKsmetUbIv0nocJnySB+aor4C8yk6ZYIMXVtHsMDXKcqrQEhRVIw==
+"@types/gulp@4.0.13":
+  version "4.0.13"
+  resolved "https://registry.yarnpkg.com/@types/gulp/-/gulp-4.0.13.tgz#033fff1f56c01e3c98ac76ee27361c01bcb08865"
+  integrity sha512-Ms20Q2tZ3MpThZGn4Ag6e7ifz/oQJFxsuiopqz5oHmhE6q2ohnELgafi5K/pKX/4ntlpidS61v/TXAguYsVcaA==
   dependencies:
     "@types/undertaker" ">=1.2.6"
     "@types/vinyl-fs" "*"

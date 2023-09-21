@@ -965,10 +965,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-changed@0.0.36":
-  version "0.0.36"
-  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.36.tgz#829570c0c7e1dc3530b0506ff32d555eb14cdc91"
-  integrity sha512-bAXRJVAQRD2LEoLBNUIt3z2SKD9LM4CSv1IcyvjwBIyLpurHQm0zEQKGWVZUxKYqd/Uh30K2SmPnw0x425kjew==
+"@types/gulp-changed@0.0.37":
+  version "0.0.37"
+  resolved "https://registry.yarnpkg.com/@types/gulp-changed/-/gulp-changed-0.0.37.tgz#ad92c641bcfd353dcfc81bf465df80cb51396ec5"
+  integrity sha512-m/pRr4YgGHwPr/uOozBvtt99+2VdYqsbsFWcWR9SObZkmWYk5AnGjXDk49ooi/4FZE8ZtuH+qYUdP5JqKiTfWg==
   dependencies:
     "@types/node" "*"
     "@types/vinyl" "*"

@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/browser-sync": "2.27.2",
     "@types/browserify": "12.0.38",
-    "@types/gulp": "4.0.14",
+    "@types/gulp": "4.0.15",
     "@types/gulp-autoprefixer": "0.0.35",
     "@types/gulp-changed": "0.0.37",
     "@types/gulp-csso": "4.0.3",

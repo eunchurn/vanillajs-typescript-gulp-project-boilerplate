@@ -980,10 +980,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-gh-pages@0.0.35":
-  version "0.0.35"
-  resolved "https://registry.yarnpkg.com/@types/gulp-gh-pages/-/gulp-gh-pages-0.0.35.tgz#a1ea0f383b6a1eaa881d8732bcac12ca97bd3c82"
-  integrity sha512-hfj0LeESpt72ub6S6iPqQQYUgDQsOHC7Osv5a18LUsGiei8xAnWnXa8PureABL0TIUL/6XRyZDrQH7vpzXVZ0w==
+"@types/gulp-gh-pages@0.0.36":
+  version "0.0.36"
+  resolved "https://registry.yarnpkg.com/@types/gulp-gh-pages/-/gulp-gh-pages-0.0.36.tgz#4e07508c9faa828bb9a60e56186ad8afce587d2f"
+  integrity sha512-4Ssg0EA+XUrBouo7Ulc7OHZbFs+fVP04X3xRc6YP5R/dR1zVP5bNih1adb+XWcu/KoNdhItRSTjo8PKWQBXERg==
   dependencies:
     "@types/node" "*"
 

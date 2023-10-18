@@ -899,10 +899,10 @@
     "@types/serve-static" "*"
     chokidar "^3.0.0"
 
-"@types/browserify@12.0.38":
-  version "12.0.38"
-  resolved "https://registry.yarnpkg.com/@types/browserify/-/browserify-12.0.38.tgz#25efeb1d3e7084465bbacc296fbcc0454cc2a885"
-  integrity sha512-OG+80DQ053qt+fk6f3RrkYiYBrOVHteh7SGOcgNhHrX8PQ8RsP94H8DFcI7J4eyy6vQxo9WllEqrBb8VdjaU7w==
+"@types/browserify@12.0.39":
+  version "12.0.39"
+  resolved "https://registry.yarnpkg.com/@types/browserify/-/browserify-12.0.39.tgz#b5dff7fb61fb429d656a1ae0e31fd40fb2250f12"
+  integrity sha512-10PbToKgqw+thhmttL9zqZtrfaeYn2cIY2MPJLWUYWE6D0SFUFvjc0u4hJAb0qiXM2mMQ14rfTocgozZ+JEsXA==
   dependencies:
     "@types/insert-module-globals" "*"
     "@types/node" "*"

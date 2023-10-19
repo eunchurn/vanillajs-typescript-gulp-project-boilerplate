@@ -1216,10 +1216,10 @@
     "@types/node" "*"
     "@types/vinyl" "*"
 
-"@types/vinyl-source-stream@0.0.32":
-  version "0.0.32"
-  resolved "https://registry.yarnpkg.com/@types/vinyl-source-stream/-/vinyl-source-stream-0.0.32.tgz#5a14e8aedf218324880b478fb09337b464625b4b"
-  integrity sha512-bZaATWLPB37mkc7m4ob0rPydZxJGHfJ/Q/UfvGR3U68IzUZi3Fnc8RURNHy4E3uYid9wLr+HvXiIFkLFhGFJ1g==
+"@types/vinyl-source-stream@0.0.33":
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/@types/vinyl-source-stream/-/vinyl-source-stream-0.0.33.tgz#235cf9cf7f28b93eb5e51378f53fd06a419645b4"
+  integrity sha512-S6hfV0wMgTflwTzNj9GyqWSlTkfRaQvDfQ6MYF6bRst0ULJIpzkaIc9LnHRZ3K/4eBJT9g2/SmBTT3kXQeo1rQ==
   dependencies:
     "@types/node" "*"
 

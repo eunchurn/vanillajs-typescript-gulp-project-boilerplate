@@ -1200,10 +1200,10 @@
     "@types/undertaker-registry" "*"
     async-done "~1.3.2"
 
-"@types/vinyl-buffer@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/vinyl-buffer/-/vinyl-buffer-1.0.1.tgz#aab837e529dcf784906d1385ff3393c667d4ed69"
-  integrity sha512-QinUNCA1rB/1KxvJ6mUKEOrrD4ZTQF+Qn4RAYUWbYjtjyBP9fX8wmYszPECADwUTss5VKdBUPoH/s9wBxN7ZjA==
+"@types/vinyl-buffer@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/vinyl-buffer/-/vinyl-buffer-1.0.2.tgz#5008d22840083a0f7469dec94fdddd4449f460b7"
+  integrity sha512-F95B5LEp6ud+MAs+ohnq2JtfLlqa9edNTkdn58OkTUM+kfSeMIQFkbNINfeT5m7d1R5AWYfUKGvIjQSPRaqMtQ==
   dependencies:
     "@types/node" "*"
 

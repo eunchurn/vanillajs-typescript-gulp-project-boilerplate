@@ -32,7 +32,7 @@
     "@types/gulp-minify": "3.1.4",
     "@types/jest": "29.5.6",
     "@types/jsdom": "20.0.1",
-    "@types/node": "18.18.5",
+    "@types/node": "18.18.6",
     "@types/vinyl-buffer": "1.0.1",
     "@types/vinyl-source-stream": "0.0.32",
     "browser-sync": "2.29.3",

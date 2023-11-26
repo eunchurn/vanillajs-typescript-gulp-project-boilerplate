@@ -889,10 +889,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/browser-sync@2.27.3":
-  version "2.27.3"
-  resolved "https://registry.yarnpkg.com/@types/browser-sync/-/browser-sync-2.27.3.tgz#bfd0eb70f49d71b80048ee3929a3a85959c19f6a"
-  integrity sha512-AG4+p6Wfg99BtiGTBIWN4u6JHm0nEG74krPU06pWoCFnMhNcpLfurfg5zcPUe8tNqhxJ3ZppZ6D5vxq+CCqbGQ==
+"@types/browser-sync@2.27.5":
+  version "2.27.5"
+  resolved "https://registry.yarnpkg.com/@types/browser-sync/-/browser-sync-2.27.5.tgz#9cbbcacb419c827af54c7ca7b0f56484fcc074c4"
+  integrity sha512-hhg2hzXFolA58lpAeR7KKvRMf917TRJFU2IXmod3uTdkk+/9sKXWoCu1hEoNm2m0QenseigwoHc+631UlZG7dg==
   dependencies:
     "@types/micromatch" "^2"
     "@types/node" "*"

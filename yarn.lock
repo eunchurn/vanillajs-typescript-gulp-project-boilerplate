@@ -987,10 +987,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/gulp-htmlmin@1.3.35":
-  version "1.3.35"
-  resolved "https://registry.yarnpkg.com/@types/gulp-htmlmin/-/gulp-htmlmin-1.3.35.tgz#be5037a427cbbffe89ee20442009516aeabff3f6"
-  integrity sha512-mYsp6xKuhlJqak+uF7s+v8hUlAxECIaMbo+Gat8rO/z3pDiTRRJUohGBDnS9QO4iNHNiSL/mQatAK/wt/YheFQ==
+"@types/gulp-htmlmin@1.3.36":
+  version "1.3.36"
+  resolved "https://registry.yarnpkg.com/@types/gulp-htmlmin/-/gulp-htmlmin-1.3.36.tgz#09924ca78fcf452e1523e79693e2550b1b6785a9"
+  integrity sha512-8n33l0jrVAGGLkKER+xWaqgbPKRf3Er1x4ZKx2lPlHEkGstqw4+mFOYlTfafCHfRzGyWUeD11/SP0xKqpBtrEw==
   dependencies:
     "@types/html-minifier" "*"
     "@types/node" "*"

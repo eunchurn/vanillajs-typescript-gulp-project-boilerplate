@@ -973,10 +973,10 @@
     "@types/node" "*"
     "@types/vinyl" "*"
 
-"@types/gulp-csso@4.0.4":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@types/gulp-csso/-/gulp-csso-4.0.4.tgz#7bb34ce07a3d9fd769a0655effa43c7fe447a853"
-  integrity sha512-NH7Ql6KmK1sC/TTHxB5KpR5FwB4ff8QGEfifH8FsNaDZoFNUpqjHt7HEXkmr/qxiNBYNFNSlbQ7tPvPlRGZdIA==
+"@types/gulp-csso@4.0.5":
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/@types/gulp-csso/-/gulp-csso-4.0.5.tgz#e8236cd95ca38ffadf8d63e6f050ce7a45774f9f"
+  integrity sha512-nLXnR/PzYKODohENwqdLcHnCbM087jC0ojUtT+1TFShwCjDypmf7J3Mia8+a3peTkBvgptk8vcWTZUFXVFZ+0w==
   dependencies:
     "@types/node" "*"
 

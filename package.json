@@ -38,7 +38,7 @@
     "browser-sync": "2.29.3",
     "browserify": "17.0.0",
     "canvas": "2.11.2",
-    "del": "6.1.1",
+    "del": "7.1.0",
     "gulp": "4.0.2",
     "gulp-autoprefixer": "8.0.0",
     "gulp-changed": "4.0.3",

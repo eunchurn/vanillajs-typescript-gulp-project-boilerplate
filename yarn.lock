@@ -995,10 +995,10 @@
     "@types/html-minifier" "*"
     "@types/node" "*"
 
-"@types/gulp-imagemin@7.0.3":
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/@types/gulp-imagemin/-/gulp-imagemin-7.0.3.tgz#25c3a54832f5218b542d6109f5246f94f28c8722"
-  integrity sha512-2jp8LAKDZRMZCGh66vBwyHtya0+whYNuvopw2DxpS8gdy3PUc74xMbg/PHsKzkHsl+tcGVk2Tzrl3AXumJn8tg==
+"@types/gulp-imagemin@8.0.6":
+  version "8.0.6"
+  resolved "https://registry.yarnpkg.com/@types/gulp-imagemin/-/gulp-imagemin-8.0.6.tgz#e21a0efa4b455ebfae4d540ae639ec4a6111b6a2"
+  integrity sha512-beIai/1wAnhOvfkIQq+QVPAjrP0+WkewygxgonMmSZ7Al8ZiNQU1D7AMmHYpj+3e0HFAWK0cUaIX+La3A1vqnA==
   dependencies:
     "@types/imagemin" "*"
     "@types/imagemin-gifsicle" "*"

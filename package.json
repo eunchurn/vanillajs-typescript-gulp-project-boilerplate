@@ -20,7 +20,7 @@
   "license": "MIT",
   "browserslist": "> 0.2%",
   "devDependencies": {
-    "@types/browser-sync": "2.29.0",
+    "@types/browser-sync": "2.29.1",
     "@types/browserify": "12.0.40",
     "@types/gulp": "4.0.17",
     "@types/gulp-autoprefixer": "0.0.37",
